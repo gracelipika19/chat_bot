@@ -1,0 +1,90 @@
+INFO:root:2024-11-02 23:14:52.868986 - User: grace joined the conversation.
+INFO:root:2024-11-02 23:15:31.660564 - User input: weather
+INFO:root:2024-11-02 23:15:36.941722 - User asked about weather in rajahmundry. Bot response: The weather in rajahmundry is sunny.
+INFO:root:2024-11-02 23:15:45.673842 - User input: weather
+INFO:root:2024-11-02 23:15:49.764145 - User asked about weather in nuzvid. Bot response: The weather in nuzvid is sunny.
+INFO:root:2024-11-02 23:16:41.752056 - User input: add
+INFO:root:2024-11-02 23:16:54.804957 - User asked for add of 8.0 and 2.0. Bot response: The result of add is 10.0.
+INFO:root:2024-11-02 23:17:14.099414 - User input: can you perform calculations
+INFO:root:2024-11-02 23:17:14.101409 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:17:28.903205 - User input: math
+INFO:root:2024-11-02 23:17:28.903205 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:34:04.418348 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot.py"
+INFO:root:2024-11-02 23:34:04.420246 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:34:09.132356 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot.py"
+INFO:root:2024-11-02 23:34:09.132356 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:34:10.263613 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot.py"
+INFO:root:2024-11-02 23:34:10.264424 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:34:22.090704 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot.py"
+INFO:root:2024-11-02 23:34:22.090704 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:34:28.992130 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot.py"
+INFO:root:2024-11-02 23:34:28.993138 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:34:36.908719 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot.py"
+INFO:root:2024-11-02 23:34:36.909729 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:34:49.023353 - User: grace joined the conversation.
+INFO:root:2024-11-02 23:34:53.586671 - User input: weather
+INFO:root:2024-11-02 23:34:57.281949 - User asked about weather in nuzvid. Bot response: Could not retrieve weather data for 'nuzvid'. Please check the city name.
+INFO:root:2024-11-02 23:43:02.947367 - User input: weather
+INFO:root:2024-11-02 23:43:05.663799 - User asked about weather in london. Bot response: The weather in london is overcast clouds with a temperature of 13.09°C.
+INFO:root:2024-11-02 23:43:19.554808 - User input: paris
+INFO:root:2024-11-02 23:43:19.554808 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:43:23.632632 - User input: weather
+INFO:root:2024-11-02 23:43:26.386674 - User asked about weather in paris. Bot response: The weather in paris is overcast clouds with a temperature of 11.19°C.
+INFO:root:2024-11-02 23:43:33.992175 - User input: nuzvid
+INFO:root:2024-11-02 23:43:33.992175 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:43:42.387568 - User input: rajahmundry
+INFO:root:2024-11-02 23:43:42.397085 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:43:48.131371 - User input: delhi
+INFO:root:2024-11-02 23:43:48.132011 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:43:57.922272 - User input: london
+INFO:root:2024-11-02 23:43:57.922272 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:44:02.399254 - User input: weather
+INFO:root:2024-11-02 23:44:09.466529 - User asked about weather in delhi. Bot response: The weather in delhi is haze with a temperature of 22.05°C.
+INFO:root:2024-11-02 23:44:14.045430 - User input: weather
+INFO:root:2024-11-02 23:44:19.958547 - User asked about weather in nuzvidu. Bot response: Could not retrieve weather data for 'nuzvidu'. Please check the city name.
+INFO:root:2024-11-02 23:44:26.841398 - User input: weather
+INFO:root:2024-11-02 23:44:32.273260 - User asked about weather in rajahmundry. Bot response: The weather in rajahmundry is light rain with a temperature of 24.17°C.
+INFO:root:2024-11-02 23:44:46.971737 - User input: opertaion
+INFO:root:2024-11-02 23:44:46.972737 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:44:49.827007 - User input: sum
+INFO:root:2024-11-02 23:44:49.828006 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:44:54.316853 - User input: add
+INFO:root:2024-11-02 23:45:04.087394 - User asked for multiply of 7.0 and 3.0. Bot response: The result of multiply is 21.0.
+INFO:root:2024-11-02 23:46:18.632268 - User input: divide
+INFO:root:2024-11-02 23:46:27.247269 - Bot response: Error: Invalid operation
+INFO:root:2024-11-02 23:46:32.233815 - User input: 8
+INFO:root:2024-11-02 23:46:32.234830 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:46:37.390513 - User input: divide
+INFO:root:2024-11-02 23:46:44.334633 - Bot response: Error: Cannot divide by zero
+INFO:root:2024-11-02 23:54:53.293024 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot_api.py"
+INFO:root:2024-11-02 23:54:53.297029 - Bot could not understand the user input.
+INFO:root:2024-11-02 23:54:59.207239 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\chatbot_api.py"
+INFO:root:2024-11-02 23:54:59.207239 - Bot could not understand the user input.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 720-563-152
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 720-563-152
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 720-563-152
+INFO:root:2024-11-03 00:00:23.202271 - User: grace joined the conversation.
+INFO:root:2024-11-03 00:00:27.806980 - User input: exit
+INFO:root:2024-11-03 00:00:27.807966 - User exited the chat.
+INFO:root:2024-11-03 00:03:51.726690 - User: grace joined the conversation.
+INFO:root:2024-11-03 00:03:59.914151 - User input: weather
+INFO:root:2024-11-03 00:04:03.109019 - User asked about weather in paris. Bot response: The weather in paris is overcast clouds with a temperature of 11.13°C.
+INFO:root:2024-11-03 00:09:36.689836 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\test_chatbot.py"
+INFO:root:2024-11-03 00:09:36.691200 - Bot could not understand the user input.
+INFO:root:2024-11-03 00:09:49.642434 - User input: python -u "c:\users\grace lipika\onedrive\desktop\devsec\chat_bot\test_chatbot.py"
+INFO:root:2024-11-03 00:09:49.642434 - Bot could not understand the user input.
